@@ -112,7 +112,7 @@
   <section class="promo">
     <h2>Promo Spesial Bulan Ini!</h2>
     <ul>
-      <li>🎁 Free revisi 2x</li>
+      <li>🎁 Free revisi 1x</li>
       <li>🎁 Bonus sound logo singkat</li>
       <li>📞 Konsultasi gratis</li>
     </ul>
@@ -122,14 +122,14 @@
   <section class="testimonials">
     <h2>Apa Kata Klien Kami?</h2>
     <div class="testimonial">
-      <p>⭐⭐⭐⭐⭐<br />“Jingle dari Jinggle.id bikin bisnis saya makin dikenal di TikTok!”<br />– Arif, Pemilik Tuku.id</p>
+      <p>⭐⭐⭐⭐⭐<br />“Jingle dari Jinggle.id bikin bisnis saya makin dikenal di TikTok!”<br />– Mas Hadi, Pemilik Tuku.id</p>
     </div>
   </section>
 
   <footer>
     <p>📱 WhatsApp: 0813-3325-3998</p>
     <p>📸 Instagram/TikTok: @jinggle.id</p>
-    <p>📧 Email: hello@jinggle.id</p>
+    <p>📧 Email: halojinggle.id@gmail.com</p>
   </footer>
 </body>
 </html>
